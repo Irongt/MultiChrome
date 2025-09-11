@@ -7,4 +7,5 @@ Windows 10 o superior (Los anteriores no han sido testeados, pero puede llegar a
 # ¿Como funciona?
 Su manera de funcionar es muy simple, el codigo principal esta hecho en batch, pero las interfazes estan en hechas en PowerShell con la extencion de forms y draw.
 Ha sido convertido a .exe gracias a Batch to Exe.
-
+# Personalizar tema
+Proximamente...
