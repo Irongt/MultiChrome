@@ -8,4 +8,13 @@ Windows 10 o superior (Los anteriores no han sido testeados, pero puede llegar a
 Su manera de funcionar es muy simple, el codigo principal esta hecho en batch, pero las interfazes estan en hechas en PowerShell con la extencion de forms y draw.
 Ha sido convertido a .exe gracias a Batch to Exe.
 # Personalizar tema
-Proximamente...
+Debes crear un archivo llamado color.cfg con el siguiente contenido
+```
+R, G, B
+```
+Ejemplo
+```
+12, 32, 40
+```
+Aqui tienes un ejemplo para seleccionar un color RGB
+https://share.google/OHAQTBx0sc62yuXyX
